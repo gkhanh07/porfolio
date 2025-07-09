@@ -99,7 +99,7 @@ const Navbar = () => {
                     </Link>
                 </motion.div>
 
-                {/* Mobile menu button */}
+
                 <motion.div
                     className='mobile-menu block md:hidden'
                     variants={menuButtonVariants}
